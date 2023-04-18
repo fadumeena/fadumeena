@@ -3,7 +3,7 @@
 <!--
 **fadumeena/fadumeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Fadumeen! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
